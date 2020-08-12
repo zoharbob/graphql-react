@@ -1,11 +1,8 @@
-
-# New Features!
-
-node.js + react project with **GraphQL API**
+## Node.js + React project with GraphQL API
 
 ### Installation
 
-Install dependencies of both node and react projects: 
+Install the dependencies of both node and react projects: 
 ```sh
 $ npm install
 ```
